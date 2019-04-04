@@ -1,0 +1,1 @@
+# exercise3 Dapatkan data dari API swapi (django) dan membuat tampilan nya dalam tabel. pembuatan menggunakan javascrip, html dan css. mengambil data API pakai javascript dan di letakkan dalam table masing-masing
